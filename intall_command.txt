@@ -1,0 +1,5 @@
+✔ npx degit sveltejs/template Project_name
+✔ cd Project_name
+   npm install -g yarn (if create app first time)
+✔ yarn    
+✔ yarn dev
