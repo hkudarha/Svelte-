@@ -3,3 +3,12 @@
    npm install -g yarn (if create app first time)
 ✔ yarn    
 ✔ yarn dev
+
+
+
+
+code push on github:
+
+git add .
+git commit -m "Update message"
+git push
